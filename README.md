@@ -3,13 +3,15 @@
 
 - 🌱 I’m currently learning **React,Node,Express,MongoDB**
 
+- 👨‍💻 All of my projects are available at [https://github.com/SankethGaniga95/SankethGaniga95.github.io](https://github.com/SankethGaniga95/SankethGaniga95.github.io)
+
 - 📫 How to reach me **sankethganiga888@gmail.com**
 
-- 📄 Know about my experiences [Sanketh-Ganiga-Resume](https://drive.google.com/file/d/1WB6LWvTqpwnKuwJrGRYomqThnU-nnOiG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WB6LWvTqpwnKuwJrGRYomqThnU-nnOiG/view?usp=sharing](https://drive.google.com/file/d/1WB6LWvTqpwnKuwJrGRYomqThnU-nnOiG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://codepen.io/sankethganiga95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sankethganiga95" height="30" width="40" /></a> -->
+<a href="https://codepen.io/sankethganiga95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sankethganiga95" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanketh ganiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanketh ganiga" height="30" width="40" /></a>
 </p>
 
