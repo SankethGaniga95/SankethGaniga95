@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Node,Express,MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SankethGaniga95/SankethGaniga95.github.io](https://github.com/SankethGaniga95/SankethGaniga95.github.io)
+- 👨‍💻 All of my projects are available at [SankethGaniga95.github.io](https://SankethGaniga95.github.io)
 
 - 📫 How to reach me **sankethganiga888@gmail.com**
 
