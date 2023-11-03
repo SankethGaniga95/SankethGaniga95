@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanketh Ganiga</h1>
-<h3 align="center">An Aspiring Front-End Developer</h3>
+<h3 align="center">An Aspiring Full Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **React,Node,Express,MongoDB**
 
